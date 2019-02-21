@@ -6,7 +6,8 @@ console.log("Scrpit By batatis");
 client.on("ready", () => {
 let channel =     client.channels.get("543864251169636353")
 setInterval(function() {
-channel.send(`ابفى كريديت يا بوت برو بوت عطوني كريديت ابفى كريديت يا بوت برو بوت عطوني كريديت ابفى كريديت يا بوت برو بوت عطوني كريديت `);
+channel.send(`! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire: ! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:! Pierre :beers::fire:!:
+ `);
 }, 30)
 })
 
